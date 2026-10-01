@@ -1,0 +1,100 @@
+{
+  "purpose": "Illustrative sample catalog listings for 덤핑몰. These are stock photographs, not verified supplier/product photos.",
+  "license": {
+    "name": "Unsplash License",
+    "url": "https://unsplash.com/license",
+    "summary": "Free commercial and non-commercial use; attribution appreciated but not required. Images cannot be sold without significant modification or compiled to replicate a competing image service. Brand marks remain visible on some products; do not imply the photographed brands are verified suppliers or actual inventory."
+  },
+  "images": [
+    {
+      "category": "Bottled mineral water",
+      "path": "/tmp/dumpingmall-assets/mineral-water.jpg",
+      "width": 1000,
+      "height": 1250,
+      "sourcePage": "https://unsplash.com/photos/clear-plastic-bottle-on-white-table-edBR3b2JAuA",
+      "imageUrl": "https://images.unsplash.com/photo-1616118132534-381148898bb4?auto=format&fit=crop&w=1000&q=88",
+      "photographer": "charlesdeluvio",
+      "objectPosition": "50% 80%",
+      "notes": "Unbranded clear PET bottle, blue cap, neutral background. No mineral origin or volume verified."
+    },
+    {
+      "category": "Bottled orange juice",
+      "path": "/tmp/dumpingmall-assets/orange-juice.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sourcePage": "https://unsplash.com/photos/a-person-holding-a-bottle-of-juice-in-their-hand-ccD0SOTmSwY",
+      "imageUrl": "https://images.unsplash.com/photo-1650547002496-e7ed9df4bf3c?auto=format&fit=crop&w=1000&q=88",
+      "photographer": "Andrew Kayani",
+      "objectPosition": "50% 100%",
+      "notes": "Orange juice bottle held against gray wall. Neviri Juice label visible. Use bottom square crop to retain bottle."
+    },
+    {
+      "category": "White bath towels",
+      "path": "/tmp/dumpingmall-assets/white-towels.jpg",
+      "width": 1000,
+      "height": 667,
+      "sourcePage": "https://unsplash.com/photos/stack-of-clean-white-towels-on-a-surface-qPNgpYUCW0c",
+      "imageUrl": "https://images.unsplash.com/photo-1760722974657-f64bce2f9cc5?auto=format&fit=crop&w=1000&q=88",
+      "photographer": "Mads Leif Hansen",
+      "objectPosition": "35% 50%",
+      "notes": "Stack of textured white towels in natural light."
+    },
+    {
+      "category": "Neutral cotton T-shirt",
+      "path": "/tmp/dumpingmall-assets/cotton-tshirt.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sourcePage": "https://unsplash.com/photos/white-crew-neck-t-shirt-acn5ERAeSb4",
+      "imageUrl": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=1000&q=88",
+      "photographer": "Haryo Setyadi",
+      "objectPosition": "50% 70%",
+      "notes": "White crew-neck tee on hanger against textured gray wall. Fabric composition is illustrative, not verified."
+    },
+    {
+      "category": "Stainless cookware",
+      "path": "/tmp/dumpingmall-assets/cookware.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sourcePage": "https://unsplash.com/photos/stainless-steel-cooking-pots-on-stainless-steel-tray-RSpq9P2vttE",
+      "imageUrl": "https://images.unsplash.com/photo-1604414499020-f9ac575bc5ec?auto=format&fit=crop&w=1000&q=88",
+      "photographer": "Justus Menke",
+      "objectPosition": "50% 65%",
+      "notes": "Three polished steel pots on metal shelf against dark background."
+    },
+    {
+      "category": "Coffee beans",
+      "path": "/tmp/dumpingmall-assets/coffee-beans.jpg",
+      "width": 1000,
+      "height": 667,
+      "sourcePage": "https://unsplash.com/photos/pile-of-coffee-beans-uF8PBGRGD5A",
+      "imageUrl": "https://images.unsplash.com/photo-1558945737-bcad70ff387d?auto=format&fit=crop&w=1000&q=88",
+      "photographer": "Timo Strohmann",
+      "objectPosition": "50% 50%",
+      "notes": "Clean close-up roasted coffee bean texture; square crop anywhere."
+    },
+    {
+      "category": "Laundry detergent",
+      "path": "/tmp/dumpingmall-assets/laundry-detergent.jpg",
+      "width": 1000,
+      "height": 1250,
+      "sourcePage": "https://unsplash.com/photos/NOAGTkCfVlE",
+      "discoveryPage": "https://unsplash.com/s/photos/laundry-detergent",
+      "downloadLink": "https://unsplash.com/photos/NOAGTkCfVlE/download?force=true",
+      "imageUrl": "https://images.unsplash.com/photo-1624372635282-b324bcdd4907?auto=format&fit=crop&w=1000&q=88",
+      "photographer": "No Revisions",
+      "objectPosition": "50% 50%",
+      "notes": "Amber Botanical Origin detergent bottle on white towels; real brand visible. Official Unsplash free Download link resolved to this asset."
+    },
+    {
+      "category": "Skincare bottles",
+      "path": "/tmp/dumpingmall-assets/skincare.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sourcePage": "https://unsplash.com/photos/a-white-table-topped-with-bottles-of-skin-care-T1zmgXB2-9Y",
+      "imageUrl": "https://images.unsplash.com/photo-1642005799895-44c2fe28d784?auto=format&fit=crop&w=1000&q=88",
+      "photographer": "Shayna Douglas",
+      "objectPosition": "50% 70%",
+      "notes": "Beauty product flat-lay with The Ordinary, Glossier and Olaplex labels visible."
+    }
+  ]
+}

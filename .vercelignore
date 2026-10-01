@@ -1,0 +1,16 @@
+.openai
+.sites-runtime
+.wrangler
+.agents
+.codex
+dist
+build
+outputs
+work
+vite.config.ts
+scripts/verify-api.mjs
+scripts/sites-*
+scripts/execution-profile.mjs
+.env*
+scripts/verify-*
+skills-lock.json
